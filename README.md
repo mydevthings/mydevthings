@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **html, css, javascript & react**
 
-- 📫 How to reach me **mike.dev@skiff.com**
+- 📫 How to reach me **mike.contact@skiff.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
